@@ -6,8 +6,8 @@ const projects = [
   {
     title: "Real-Time Chat App",
     description:
-      "A full‑stack real-time chat application with authentication, instant messaging, online/offline status, last seen tracking, and WebSocket-based communication.",
-    tech: "React.js • Node.js • Express • MongoDB • Socket.io",
+      "A full‑stack real-time chat application with Jwt authentication, instant messaging, online/offline status, last seen tracking, and WebSocket-based communication.",
+    tech: "React.js • Node.js • Express • PostgreSql • Socket.io",
     image: "https://res.cloudinary.com/dshedjgx8/image/upload/v1773650815/Capture_mxxxqx.png",
     github: "https://github.com/V4Vikaskumar/chat-App/tree/master",
     live: "https://chat-app-frontend-2-c9d5.onrender.com",
@@ -16,7 +16,7 @@ const projects = [
     title: "Draw-Link (Real time collaborative whiteboard)",
     description:
       "A collaborative whiteboard where multiple users can draw shapes and sketches together on a shared canvas in real time.",
-    tech: "React.js • Canvas API • Node.js • WebSockets",
+    tech: "React.js • Canvas • Node.js • Express • MongoDb • Socket.io • WebSockets",
     image: "https://res.cloudinary.com/dshedjgx8/image/upload/v1773650814/draw-link_dxc1e2.png",
     github: "https://github.com/V4Vikaskumar/draw-link/tree/main",
     live: "https://draw-link-fro.onrender.com",
@@ -25,7 +25,7 @@ const projects = [
     title: "Live Code Editor",
     description:
       "A browser-based live code editor similar to CodePen where users can write HTML, CSS, and JavaScript and instantly see the preview.",
-    tech: "React.js • JavaScript • Live Preview",
+    tech: "Html5 • Css  • JavaScript • Live Preview",
     image: "https://res.cloudinary.com/dshedjgx8/image/upload/v1773650815/code_editor_wzkzct.png",
     github: "https://github.com/V4Vikaskumar/live-code-editor/tree/main",
     live: "https://live-code-editor-2uu2.onrender.com",
